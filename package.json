@@ -1,0 +1,29 @@
+{
+  "name": "stripe-integration-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlesmartinreed/stripe-integration-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlesmartinreed/stripe-integration-example/issues"
+  },
+  "homepage": "https://github.com/charlesmartinreed/stripe-integration-example#readme",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "stripe": "^7.14.0"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.1"
+  }
+}
